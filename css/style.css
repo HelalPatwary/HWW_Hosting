@@ -3,7 +3,33 @@ body {
     overflow-x: hidden;
     background-color: #efefef;
 }
-.hww-background-white{
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropend:hover .dropdown-sub-content {
+                    display: block;
+                    left: 100%;
+                    top: 0%;
+                    min-width: 200px;
+
+                }
+
+
+.dropdown-content, .dropdown-sub-content{
+  display: none;
+  list-style-type: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  text-align: left;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+
+.footer-main{
     background-color: #efefef;
 }
 .main-logo{
@@ -49,14 +75,14 @@ body {
     float: right;
 }
 
+
 .nav-btn {
     color: black !important;
-    font-weight: bold;
 }
 
 .nav-btn:hover {
-    color: #f37c20;
-    font-weight: bold;
+    color: blue !important;
+/*    font-weight: bold;*/
 }
 
 .nav-btn:active {
@@ -362,7 +388,7 @@ body {
     background-color:#ffffff90;
 }
 
-.darker {
+.footer-sub {
     background-color: #1d1d1d;
     padding: 20px 0px;
 }
