@@ -20,7 +20,7 @@ body {
   list-style-type: none;
   position: absolute;
   background-color: #f1f1f1;
-  min-width: 160px;
+  min-width: 200px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
   text-align: left;
@@ -418,6 +418,7 @@ body {
     background-image: url(../img/magento.png);
     padding-top: 2%;
     height: 250px;
+    width: 100%;
 }
 
 .icons {
@@ -441,19 +442,6 @@ height: auto;
 
 input.dark-bg {
     background: #272727;
-}
-
-#fh5co-footer i.fa {
-    color: #fff;
-    font-size: 30px;
-}
-
-#fh5co-legal a{
-    color: #fff;
-}
-
-#fh5co-legal a.text-gr{
-    color: #24b540;
 }
 
 table {
