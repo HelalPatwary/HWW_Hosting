@@ -129,7 +129,7 @@ body {
 
 .banner-text {
     position: absolute;
-    margin-left: 10%;
+    margin-left: 15%;
     padding-top: 6%;
     color: beige;
     z-index: 3;
@@ -576,9 +576,13 @@ table {
 /*website dev*/
 
 .main-entry{
-    padding: 100px;
+    padding:  50px 100px;
     background-color: white;
     color: black;
+}
+.service-page-title{
+    text-align: center;
+    margin-bottom: 50px;
 }
 
 
@@ -588,7 +592,7 @@ table {
 .badges-lists.alignright { float:right; margin:20px 0 30px 30px !important; max-width:55%; }
 .badges-lists.alignright li { margin:0 20px 0 0; }
 .badges-lists.alignright li:last-child { margin-right:0; }
-
+/*
 .entry .one-third { float:left; width:30%; margin-right:5%; }
 .entry .one-third img { float:none; margin:0; } 
 .entry .one-third .aligncenter { margin:0 auto; }
@@ -597,3 +601,5 @@ table {
 .entry .one-third-last .aligncenter { margin:0 auto; }
 .landing-page-content .one-third { float:left; width:463px; margin:0 26px 26px 0; padding:26px; background:#FFF; min-height:385px; }
 .landing-page-content .one-third-last { float:left; width:462px; margin:0 0 26px 0; padding:26px; background:#FFF; min-height:385px; }
+
+*/
