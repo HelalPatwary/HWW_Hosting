@@ -4,7 +4,12 @@ body {
     background-color: #efefef;
 }
 
-.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .dropdown-content {
+        transition-duration: 1s;
+        transform-style: 
+        transition-timing-function: ease;
+        display: block;
+    }
 
 .dropend:hover .dropdown-sub-content {
                     display: block;
@@ -24,7 +29,7 @@ body {
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
   text-align: left;
-  padding: 5px;
+  padding: 0;
   border-radius: 10px;
 }
 
