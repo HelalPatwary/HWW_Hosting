@@ -33,7 +33,14 @@ p{
 	text-align: justify;
 }
 .content{
-	padding: 100px;
+	background-image:url(../img/services-landing-hero.jpg) ;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+
+}
+.content-body{
+	padding: 50px 10px 50px 10px;
+	max-width: 860px;
 	color: white;
-	background-color: #0682b6;
 }
