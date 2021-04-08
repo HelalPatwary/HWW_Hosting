@@ -13,14 +13,6 @@
 </head>
 <body>
 
-
-	<?php
-		echo "My first PHP script!";
-	?>
-
-
-
-
 	<?php
 	session_start();
 	include_once 'header.php';
@@ -28,7 +20,7 @@
 
 
 
-<div class="container" style="height: 1200px">
+<div class="container">
 	
 
 </div>

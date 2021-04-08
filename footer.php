@@ -2,7 +2,7 @@
 	<div class="container animate-box footer" id="footer">
 		<div class="row">
 			<div class="col-sm-4 ">
-				<div class="main-logo"><img src="img/main_logo.png"> </div>
+				<div class="main-logo"><img src="img/main_logo.png" alt="main-logo" > </div>
 				<br>
 				<div class="text-black">Get amazing results working with the best programmers, designers, writers and
 					other top online pros. You can hire us with confidence. Get amazing results working with the best

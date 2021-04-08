@@ -16,7 +16,7 @@
 
 	<?php
 	session_start();
-	include_once 'header.html';
+	include_once 'header.php';
 	?>
 
 
@@ -437,7 +437,7 @@
 
 	<?php
 	session_start();
-	include_once 'footer.html';
+	include_once 'footer.php';
 	?>
 
 
