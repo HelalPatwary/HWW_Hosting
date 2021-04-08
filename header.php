@@ -39,41 +39,41 @@
 				<div class="collapse navbar-collapse" id="navbarSupportedContent" style="float: right;">
 					<ul class="navbar-nav  " >
 						<li class="nav-item">
-							<a class="nav-link nav-btn " href="index.html">HOME</a>
+							<a class="nav-link nav-btn " href="index.php">HOME</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link nav-btn" href="index.html#hosting-plans">HOSTING</a>
+							<a class="nav-link nav-btn" href="index.php#hosting-plans">HOSTING</a>
 						</li>
 						<li class="nav-item">
 							<div class="dropdown">
-								<a class="nav-link nav-btn " href="services.html">SERVICES</a>
+								<a class="nav-link nav-btn " href="services.php">SERVICES</a>
 								<ul class=" dropdown-content">
 									<li class="dropend">
-										<a class="nav-link nav-btn nav-sub-btn"  href="website-dev.html">Website Development</a>
+										<a class="nav-link nav-btn nav-sub-btn"  href="website-dev.php">Website Development</a>
 										<ul class="dropdown-sub-content">
-											<li><a class="nav-link nav-btn " href="eCommerce.html">eCommerce</a></li>
-											<li><a class="nav-link nav-btn " href="wordpress.html">Wordpress</a></li>
-											<li><a class="nav-link nav-btn " href="healthcare.html">Healthcare</a></li>
+											<li><a class="nav-link nav-sub-btn " href="ecommerce.php">eCommerce</a></li>
+											<li><a class="nav-link nav-sub-btn " href="wordpress.php">Wordpress</a></li>
+											<li><a class="nav-link nav-sub-btn " href="healthcare.php">Healthcare</a></li>
 										</ul>
 									</li>
 									<li class="dropend">
-										<a class="nav-link nav-btn nav-sub-btn" href="magento.html">Magento eCommerce</a>
+										<a class="nav-link nav-btn nav-sub-btn" href="magento.php">Magento eCommerce</a>
 										<ul class="dropdown-sub-content">
-											<li><a class="nav-link nav-btn " href="magento-ecommerce">Commerce</a></li>
-											<li><a class="nav-link nav-btn " href="magento-open-source">Open Source</a></li>
+											<li><a class="nav-link nav-sub-btn " href="magento-ecommerce.php">Commerce</a></li>
+											<li><a class="nav-link nav-sub-btn " href="magento-open-source.php">Open Source</a></li>
 										</ul>
 									</li>
 									<li class="dropend">
-										<a class="nav-link nav-btn nav-sub-btn" href="hosting-management.html">Hosting Management</a>
+										<a class="nav-link nav-btn nav-sub-btn" href="hosting-management.php">Hosting Management</a>
 										<ul class="dropdown-sub-content">
-											<li><a class="nav-link nav-btn " href="amazon-cloud.html">Amazon Cloud Hosting & Magento</a></li>
-											<li><a class="nav-link nav-btn " href="geolocation-ecommerce.html">Geolocation for eCommerce</a></li>
-											<li><a class="nav-link nav-btn " href="enterprise-healthcare.html">
+											<li><a class="nav-link nav-sub-btn " href="amazon-cloud.php">Amazon Cloud Hosting & Magento</a></li>
+											<li><a class="nav-link nav-sub-btn " href="geolocation-ecommerce.php">Geolocation for eCommerce</a></li>
+											<li><a class="nav-link nav-sub-btn " href="enterprise-healthcare.php">
 											Enterprise Hosting for Healthcare</a></li>
 										</ul>
 
 									</li>
-									<li><a class="nav-link nav-btn nav-sub-btn" href="site-admin.html">Site Administration</a></li>
+									<li><a class="nav-link nav-btn nav-sub-btn" href="site-admin.php">Site Administration</a></li>
 
 								</ul>
 							</div>
@@ -82,7 +82,7 @@
 							<a class="nav-link nav-btn" href="#">NEWS</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link nav-btn" href="index.html#contact-us">CONTACT</a>
+							<a class="nav-link nav-btn" href="index.php#contact-us">CONTACT</a>
 						</li>
 					</ul>
 

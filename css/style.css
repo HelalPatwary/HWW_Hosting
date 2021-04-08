@@ -94,14 +94,20 @@ body {
 }
 
 
-.nav-btn {
+.nav-btn, .nav-sub-btn {
     color: black;
 }
 
 .nav-btn:hover {
+    color: #224384;
+   /* font-weight: bold; */
+    /* background: #224384; */
+}
+.nav-sub-btn:hover{
     color: white;
-/*    font-weight: bold;*/
-    background: #224384;
+    background-color: #224384;
+    transition-delay: 30ms;
+    transition-timing-function: ease;
 }
 
 .nav-btn:active {

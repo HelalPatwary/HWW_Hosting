@@ -18,24 +18,24 @@
 				<br>
 				<table class="text-black" width="100%">
 					<tr>
-						<td><a  href="#!">Home</a></td>
-						<td><a  href="#pricing">Hosting</a></td>
+						<td><a  href="index.php">Home</a></td>
+						<td><a  href="index.php#hosting-plans">Hosting</a></td>
 					</tr>
 					<tr>
 						<td><a  href="#!">About us</a></td>
 						<td><a  href="#!">Faq</a></td>
 					</tr>
 					<tr>
-						<td><a  href="https://www.harriswebworks.com/web-design-development/">Services</a></td>
+						<td><a  href="services.php">Services</a></td>
 						<td><a  href="#!">Cart</a></td>
 					</tr>
 					<tr>
-						<td><a  href="#!">Shop</a></td>
+						<td><a  href="#">Shop</a></td>
 						<td><a  href="#!">Checkout</a></td>
 					</tr>
 					<tr>
 						<td><a  href="#!">Blog</a></td>
-						<td><a  href="#contact">Contact</a></td>
+						<td><a  href="index.php#contact-us">Contact</a></td>
 					</tr>
 				</table>
 			</div>
