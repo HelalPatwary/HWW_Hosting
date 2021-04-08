@@ -9,13 +9,15 @@ body {
         transform-style: 
         transition-timing-function: ease;
         display: block;
+        
     }
+
 
 .dropend:hover .dropdown-sub-content {
                     display: block;
                     left: 100%;
                     top: 0%;
-                    min-width: 200px;
+                    min-width: 200px;;
 
                 }
 
@@ -30,7 +32,11 @@ body {
   z-index: 1;
   text-align: left;
   padding: 0;
-  border-radius: 10px;
+  /*border-radius: 10px;*/
+}
+
+.nav-sub-btn: hover{
+    background-color:  #224384;
 }
 
 
@@ -89,12 +95,13 @@ body {
 
 
 .nav-btn {
-    color: black !important;
+    color: black;
 }
 
 .nav-btn:hover {
-    color: blue !important;
+    color: white;
 /*    font-weight: bold;*/
+    background: #224384;
 }
 
 .nav-btn:active {
@@ -589,7 +596,10 @@ table {
     text-align: center;
     margin-bottom: 50px;
 }
-
+.one-third, .one-third-last {
+    width: 33%;
+    display: inline-block;
+}
 
 .badges-lists { text-align:center; margin:0 40px 30px 0 !important; }
 .badges-lists li { margin:0 10px 10px 10px; list-style:none; display:inline-block; vertical-align:middle; }

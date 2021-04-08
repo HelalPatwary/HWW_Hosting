@@ -13,6 +13,14 @@
 </head>
 <body>
 
+
+	<?php
+		echo "My first PHP script!";
+	?>
+
+
+
+
 <div class="top-bar">
 		<div class="container">
 			<div class="row">
@@ -106,7 +114,7 @@
 
 
 
-<div class="container">
+<div class="container" style="height: 1200px">
 	
 
 </div>
