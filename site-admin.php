@@ -46,7 +46,7 @@
 		</ul>
 		<p>Often, there are staging and live versions of large sites. Our team will keep multiple versions of a site up-to-date and in sync.</p>
 		<p>We’ll handle “behind-the-scenes” necessities such as security updates, software maintenance and version updates, SEO and more, to keep your site up and running as intended.</p>
-		<p><a href="index.html#contact-us">Contact us today</a>&nbsp;to discuss how our approach can benefit your business and bring you peace-of-mind.</p>
+		<p><a href="index.php#contact-us">Contact us today</a>&nbsp;to discuss how our approach can benefit your business and bring you peace-of-mind.</p>
 		<p>
 		</p>
 		

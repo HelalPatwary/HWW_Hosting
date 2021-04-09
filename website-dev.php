@@ -23,7 +23,7 @@
 		<div>
 			<div class="main-entry container">
 				<h1 class="service-page-title">Website Development</h1>
-				<p>As the hub for your online marketing</a>&nbsp;and a sales tool, your website should have all the necessary functionality, with a design that effectively represents your brand. It must be easy for users to find and use, and well-structured for ongoing updates.&nbsp;At Harris Web Works, we specialize in building websites and handling all technical, content and marketing support to help businesses grow. We specialize in&nbsp;<a href="magento.html">Magento for ecommerce websites</a>, <a href="healthcare.html" rel="noopener">Drupal for large corporate and healthcare websites</a>,&nbsp;and <a href="wordpress.html">WordPress for business websites</a>.</p>
+				<p>As the hub for your online marketing</a>&nbsp;and a sales tool, your website should have all the necessary functionality, with a design that effectively represents your brand. It must be easy for users to find and use, and well-structured for ongoing updates.&nbsp;At Harris Web Works, we specialize in building websites and handling all technical, content and marketing support to help businesses grow. We specialize in&nbsp;<a href="magento.php">Magento for ecommerce websites</a>, <a href="healthcare.php" rel="noopener">Drupal for healthcare websites</a>,&nbsp;and <a href="wordpress.php">WordPress for business websites</a>.</p>
 				<blockquote><p>Our experienced team can provide all the support needed to help your website reach its full potential. When building a new site or updating an existing one, we’ll be your partner for programming, creative &amp; content development, search optimization, and marketing. We can also manage ongoing updates, or hand over the reigns and train you on handling updates.</p></blockquote>
 				<h2>Create a Strong Online Presence and User Experience</h2>
 				<p>These&nbsp;factors&nbsp;can make the difference between someone leaving your site or staying to become an advocate or loyal customer:</p>
@@ -44,7 +44,7 @@
 					<li>Website portal for B2B or B2C presentations of data</li>
 					<li>Customer forms, surveys and questionnaires</li>
 				</ul>
-				<blockquote><p><a href="index.html#contact-us">Contact us today</a>&nbsp;to discuss how our approach can benefit your business and bring you peace-of-mind.</p></blockquote>
+				<blockquote><p><a href="index.php#contact-us">Contact us today</a>&nbsp;to discuss how our approach can benefit your business and bring you peace-of-mind.</p></blockquote>
 				<h2>Websites Built by Harris Web Works</h2>
 				<p><a href="https://www.harriswebworks.com/our-work/">See examples of our work</a>.<br>
 					<a href="https://www.harriswebworks.com/category/case-studies/">See case studies.</a></p>
