@@ -30,7 +30,7 @@
 		<p><span class="TextRun SCX84398873" xml:lang="EN-US" lang="EN-US"><span class="NormalTextRun SCX84398873">In their years of experience, our team has honed best practices for setting up a Magento ecommerce site with AWS. Implementing these concepts helps sites operate at peak performance to provide the following advantages over other sites:&nbsp;</span></span></p>
 		<ul>
 			<li>Speed and uptime – the site will be fast and responsive with 99.9% uptime</li>
-			<li>Flexibility and scalability – as your ecommerce store grows, it’ll be a smooth process to add additional functionality, system integrations and regional servers (see <a href="https://www.harriswebworks.com/website-hosting-administration/geolocation-ecommerce-magento/">global deployment with multi-region server)</a></li>
+			<li>Flexibility and scalability – as your ecommerce store grows, it’ll be a smooth process to add additional functionality, system integrations and regional servers (see <a href="geolocation-ecommerce.php">global deployment with multi-region server)</a></li>
 			<li>Added value – investing in AWS hosting gives businesses a superior network and advanced tools</li>
 		</ul>
 		<blockquote><p>Website development, management and hosting – we partner with you to increase efficiency and help your business grow. Call or email and we’re here to help! See <a href="https://www.harriswebworks.com/managed-hosting/">Managed Hosting and Configuration Options</a>.</p></blockquote>
@@ -40,7 +40,7 @@
 			<a href="https://www.harriswebworks.com/website-hosting-administration/">Managed Hosting Overview<br>
 			</a><a href="https://www.harriswebworks.com/managed-hosting/">Managed Hosting Configurations &amp; Options<br>
 			</a><a href="https://www.harriswebworks.com/business-need-global-enterprise-hosting-solution/">Does Your Business Need a Global Enterprise Hosting Solution?<br>
-			</a><a href="https://www.harriswebworks.com/website-hosting-administration/geolocation-ecommerce-magento/">Multi-Region Websites: Geolocation for eCommerce</a></p>
+			</a><a href="geolocation-ecommerce.php">Multi-Region Websites: Geolocation for eCommerce</a></p>
 			<p>
 			</p>
 

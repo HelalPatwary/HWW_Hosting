@@ -44,9 +44,9 @@
 			<li>EPIC data imports</li>
 			<li>Private and secure development server for staging updates for review</li>
 			<li>One-click push to production from staging server, with automatic backups, via our proprietary SYNC Staging platform</li>
-			<li><a href="https://www.harriswebworks.com/web-design-development/site-integrations/">Integration with third-party portals (human resources, investor relations, news feeds, and more)</a></li>
+			<li><a href="website-dev.phpsite-integrations/">Integration with third-party portals (human resources, investor relations, news feeds, and more)</a></li>
 		</ul>
-		<blockquote><p>Our experienced team handles all of the above with our vast array of&nbsp;<a href="https://www.harriswebworks.com/website-administration/">administration</a>&nbsp;and <a href="https://www.harriswebworks.com/website-hosting-administration/">hosting</a>&nbsp;capabilities. We have many insights to share – more than we can explain here! <a href="https://www.harriswebworks.com/contact-us/">Contact us</a> to discuss your company’s unique needs.</p></blockquote>
+		<blockquote><p>Our experienced team handles all of the above with our vast array of&nbsp;<a href="https://www.harriswebworks.com/website-administration/">administration</a>&nbsp;and <a href="https://www.harriswebworks.com/website-hosting-administration/">hosting</a>&nbsp;capabilities. We have many insights to share – more than we can explain here! <a href="index.php#contact-us">Contact us</a> to discuss your company’s unique needs.</p></blockquote>
 		<h2>Biotechnology and Life Sciences Websites Built by Harris Web Works</h2>
 		<p>Following are examples of websites we’ve built for healthcare industry companies. <a href="https://www.harriswebworks.com/our-work/">View more work here</a>.</p>
 
@@ -106,7 +106,7 @@
 		<div class="clearfix"></div>
 		<h2>Additional Resources</h2>
 		<p><a href="https://www.harriswebworks.com/tips-for-hipaa-compliant-email-use/">Tips for HIPAA-Compliant Email Use<br>
-		</a><a href="https://www.harriswebworks.com/website-hosting-administration/enterprise-hosting/">Enterprise Hosting for Healthcare</a></p>
+		</a><a href="enterprise-healthcare.php">Enterprise Hosting for Healthcare</a></p>
 		<p><!-- "secure data collection and storage" "HIPAA firewall" used to link to here: https://www.harriswebworks.com/hipaa-compliant-patient-portals/ --></p>
 		<p>
 		</p>

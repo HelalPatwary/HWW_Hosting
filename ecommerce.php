@@ -31,11 +31,11 @@
 			<li><a href="https://partners.magento.com/portal/details/partner/id/1780/" target="_blank" rel="noopener noreferrer"><img style="width: auto; height: 100px;" src="https://d2yy1nggxann9w.cloudfront.net/wp-content/uploads/2020/10/Badge_Magento2_Trained.png" alt=""></a></li>
 		</ul>
 		<blockquote>
-			<p>Why partner with Harris Web Works for a Magento website? Because we’ll provide ALL services and consultation needed to accelerate your online sales. Your website will be optimized for desktop &amp; mobile shopping,&nbsp;<a href="https://www.harriswebworks.com/web-design-development/integrating-magento-erp-system/">integrate with your NetSuite system</a>, build brand awareness, and attract more customers. Plus, we’re accessible and easy to work with! <a href="https://www.harriswebworks.com/contact-us/">Ask us questions</a>.</p>
+			<p>Why partner with Harris Web Works for a Magento website? Because we’ll provide ALL services and consultation needed to accelerate your online sales. Your website will be optimized for desktop &amp; mobile shopping,&nbsp;<a href="website-dev.phpintegrating-magento-erp-system/">integrate with your NetSuite system</a>, build brand awareness, and attract more customers. Plus, we’re accessible and easy to work with! <a href="index.php#contact-us">Ask us questions</a>.</p>
 		</blockquote>
 		<h2>Making a Complex eCommerce Store Successful</h2>
-		<p>We apply all elements needed for an ecommerce website to succeed: a great shopping experience (UI/UX), a&nbsp;<a href="https://www.harriswebworks.com/search-friendly-design/">search friendly</a> foundation, a well-branded design, and an efficient content management system (CMS). Further, we can <a href="https://www.harriswebworks.com/web-design-development/integrating-magento-erp-system/">integrate the Magento store with your NetSuite ERP system</a> for a complete business solution (learn about <a href="https://www.harriswebworks.com/netsuite-magento-connector/">SYNC Connection<sup>TM </sup></a>).&nbsp;</p>
-		<p>Our capabilities cover updating existing sites in Magento 1.x and building new sites in Magento 2.x, using&nbsp;<a href="https://www.harriswebworks.com/web-design-development/upgrading-magento-2-0-commerce-enterprise/">Magento Commerce</a>&nbsp;or <a href="https://www.harriswebworks.com/web-design-development/updating-site-magento-2-0-community/">Magento Open Source</a>. Features may include:</p>
+		<p>We apply all elements needed for an ecommerce website to succeed: a great shopping experience (UI/UX), a&nbsp;<a href="https://www.harriswebworks.com/search-friendly-design/">search friendly</a> foundation, a well-branded design, and an efficient content management system (CMS). Further, we can <a href="website-dev.phpintegrating-magento-erp-system/">integrate the Magento store with your NetSuite ERP system</a> for a complete business solution (learn about <a href="https://www.harriswebworks.com/netsuite-magento-connector/">SYNC Connection<sup>TM </sup></a>).&nbsp;</p>
+		<p>Our capabilities cover updating existing sites in Magento 1.x and building new sites in Magento 2.x, using&nbsp;<a href="website-dev.phpupgrading-magento-2-0-commerce-enterprise/">Magento Commerce</a>&nbsp;or <a href="website-dev.phpupdating-site-magento-2-0-community/">Magento Open Source</a>. Features may include:</p>
 		<ul>
 			<li>Quick loading, easy to navigate and checkout</li>
 			<li>Scalability to easily add products and product lines</li>
@@ -46,10 +46,10 @@
 			<li>Special custom features such as showing shoppers related products</li>
 		</ul>
 		<h2>Hosting and Maintenance</h2>
-		<p>For optimal performance,&nbsp;<a href="https://www.harriswebworks.com/website-hosting-administration/">hosting</a> is on the&nbsp;<a href="https://www.harriswebworks.com/website-hosting-administration/hosting-magento-amazon-cloud/">AWS (the Amazon cloud platform)</a>, with&nbsp;<a href="https://www.harriswebworks.com/website-hosting-administration/geolocation-ecommerce-magento/">global deployment</a>&nbsp;available. Our hosting experts will configure, set up and maintain the right hosting environment for your site. For ease of updating and getting approvals, we offer development and staging environments.</p>
+		<p>For optimal performance,&nbsp;<a href="https://www.harriswebworks.com/website-hosting-administration/">hosting</a> is on the&nbsp;<a href="amazon-cloud.php">AWS (the Amazon cloud platform)</a>, with&nbsp;<a href="geolocation-ecommerce.php">global deployment</a>&nbsp;available. Our hosting experts will configure, set up and maintain the right hosting environment for your site. For ease of updating and getting approvals, we offer development and staging environments.</p>
 		<p>Running a successful online store requires<a href="https://www.harriswebworks.com/website-administration/magento-services/"> ongoing updates and maintenance.</a>&nbsp;Our&nbsp; proficient team can manage all front-end and back-end needs as part of an ongoing retainer relationship. You’ll you benefit from our in-depth knowledge of the site and Magento expertise, and together we’ll bring your goals to fruition.</p>
 		<blockquote>
-			<p>Being a Magento Business Solution Partner means we’ve earned Magento’s endorsement as a developer. Our proficiency comes from working with this complex&nbsp;platform since its early days.&nbsp;<a href="https://www.harriswebworks.com/contact-us/">Let’s discuss your needs</a>&nbsp;and see how we can help your business grow!</p>
+			<p>Being a Magento Business Solution Partner means we’ve earned Magento’s endorsement as a developer. Our proficiency comes from working with this complex&nbsp;platform since its early days.&nbsp;<a href="index.php#contact-us">Let’s discuss your needs</a>&nbsp;and see how we can help your business grow!</p>
 		</blockquote>
 		<h2>Magento Sites Built by Harris Web Works</h2>
 		<p>Following are a few examples of websites we’ve built and now manage. <a href="https://www.harriswebworks.com/our-work/">View more work here</a>.</p>
@@ -105,7 +105,7 @@
 						<a href="https://www.harriswebworks.com/effectively-market-e-commerce-business/">How to Effectively Market Your eCommerce Store</a><br>
 						<a href="https://www.harriswebworks.com/combining-magento-netsuite-best-practices/">Combining Magento with NetSuite: Best Practices</a><br>
 						<a href="https://www.harriswebworks.com/netsuite-magento-connector/">NetSuite Magento Connector</a><br>
-						<a href="https://www.harriswebworks.com/web-design-development/magento-e-commerce/"></a><br>
+						<a href="website-dev.phpmagento-e-commerce/"></a><br>
 					</p>
 					
 

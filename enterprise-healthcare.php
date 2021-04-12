@@ -45,9 +45,9 @@
 <li>Off-site archive and dated back-ups</li>
 </ul>
 <p><img loading="lazy" class="alignleft wp-image-1740 size-large" src="https://d2yy1nggxann9w.cloudfront.net/wp-content/uploads/2017/10/hipaa-data-remake.png" alt="" width="580" height="1050"></p>
-<p>Our experience developing enterprise hosting platforms has given us many&nbsp;insights to share – more than we can explain&nbsp;here! &nbsp;If you’d like to have a more in depth conversation, call us at 203.535.1631 or <a href="https://www.harriswebworks.com/contact-us/" target="_blank" rel="noopener noreferrer">complete this email form</a>.</p>
+<p>Our experience developing enterprise hosting platforms has given us many&nbsp;insights to share – more than we can explain&nbsp;here! &nbsp;If you’d like to have a more in depth conversation, call us at 203.535.1631 or <a href="index.php#contact-us" target="_blank" rel="noopener noreferrer">complete this email form</a>.</p>
 <h3>Additional Info</h3>
-<p><a href="https://www.harriswebworks.com/web-design-development/hipaa-development-services/">HIPAA Website Development Services</a><br>
+<p><a href="website-dev.phphipaa-development-services/">HIPAA Website Development Services</a><br>
 <a href="https://www.harriswebworks.com/tips-for-hipaa-compliant-email-use/">Tips for HIPAA-Compliant Email Use</a></p>
 				<p>
 				</p>

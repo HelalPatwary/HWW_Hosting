@@ -38,7 +38,7 @@
 		<h2>Related Information</h2>
 		<p><a href="https://www.harriswebworks.com/cloud-computing-securing-data/">Cloud Computing and Securing Your Data</a><br>
 			<a href="https://www.harriswebworks.com/hosting-magento-e-commerce-site-amazon-cloud/">Why Host Your Magento Store on the Amazon Cloud</a><br>
-			<a href="https://www.harriswebworks.com/website-hosting-administration/hosting-magento-amazon-cloud/">Hosting a Magento Website on the Amazon Cloud</a><strong><br>
+			<a href="amazon-cloud.php">Hosting a Magento Website on the Amazon Cloud</a><strong><br>
 			</strong><a href="https://www.harriswebworks.com/website-hosting-administration/">Managed Hosting Overview<br>
 			</a><a href="https://www.harriswebworks.com/managed-hosting/">Managed Hosting Configurations &amp; Options</a><br>
 			<a href="https://www.harriswebworks.com/business-need-global-enterprise-hosting-solution/">Does Your Business Need a Global Enterprise Hosting Solution?</a></p>
