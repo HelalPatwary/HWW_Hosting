@@ -1,83 +1,93 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <style>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
 
-    .dropdown {
-      position: relative;
-      display: inline-block;
-    }
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
 
-    .dropdown-content {
-      display: none;
-      position: absolute;
-      background-color: #f1f1f1;
-      min-width: 160px;
-      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-      z-index: 1;
-    }
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
 
-    .dropdown-content a {
-      color: black;
-      padding: 12px 16px;
-      text-decoration: none;
-      display: block;
-    }
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
 
-    .dropdown-content a:hover {background-color: #ddd;}
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
 
-    .dropdown:hover .dropdown-content {display: block;}
+.topnav .icon {
+  display: none;
+}
 
-    .dropdown:hover .dropbtn {background-color: #3e8e41;}
-  </style>
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child) {display: none;}
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+}
+</style>
 </head>
 <body>
 
-  <h2>Hoverable Dropdown</h2>
-  <p>Move the mouse over the button to open the dropdown menu.</p>
+<div class="topnav" id="myTopnav">
+  <a href="#home" class="active">Home</a>
+  <a href="#news">News</a>
+  <a href="#contact">Contact</a>
+  <a href="#about">About</a>
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+  </a>
+</div>
 
-  <div class="">
+<div style="padding-left:16px">
+  <h2>Responsive Topnav Example</h2>
+  <p>Resize the browser window to see how it works.</p>
+</div>
 
-    <div class="content">
-      <h1>Our Services</h1>
-      <p>Harris Web Works is a full service digital agency for B2B and B2C companies, providing customized ecommerce and corporate websites, integrations, hosting, copy-writing, and site administration. <strong>We partner with our clients</strong> to continually leverage the power of their website and grow their business.</p>
-      <p>Our team has a complete range of website development and strategic planning skills. Most businesses cannot replicate this breadth of expertise in-house; that’s where we come in. Whether it’s full or supplemental support, we help businesses leverage digital technologies to increase revenue and efficiency. Ask how our experience creating, managing, hosting and creating content for ecommerce, service, corporate, and pharmaceutical websites can benefit you.</p>
-      <div class="menu clearfix">
-        <ul>
-          <li><a href="">Websites</a>
-            <ul>
-              <li><a href="/">eCommerce</a></li>
-              <li><a href="/">Healthcare /HIPAA</a></li>
-              <li><a href="">WordPress</a></li>
-              <li><a href="">Drupal</a></li>
-            </ul>
-          </li>
-          <li><a href="">Magento</a>
-            <ul>
-              <li><a href="">Commerce</a></li>
-              <li><a href="">Open Source</a></li>
-            </ul>
-          </li>
-        </ul>
-        <ul>
-          <li><a href="">Hosting</a>
-            <ul>
-              <li><a href="">Amazon Cloud Hosting & Magento</a></li>
-              <li><a href="">Geolocation for eCommerce</a></li>
-              <li><a href="">Enterprise Hosting for Healthcare</a></li>
-            </ul>
-          </li>
-          <li><a href="">Administration</a>
-            <ul>
-              <li><a href="">Magento Administration</a></li>
-            </ul>
-          </li>
-        </ul>
-      </div>
-    </div>
-
-  </div>
+<script>
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+</script>
 
 </body>
 </html>

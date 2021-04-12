@@ -47,7 +47,7 @@
 		<p>Business-level managed hosting is ideal for local service companies where they don’t have the&nbsp; time, expertise or patience needed to handle hosting-related set up and maintenance. This provides convenience, peace-of-mind and just the right amount of hosting resources needed to keep the website running smoothly.</p>
 		<h2>Ongoing Website Administration</h2>
 		<p>In conjunction with our hosting services, we also provide ongoing <a href="https://www.harriswebworks.com/website-administration/">website administration services for WordPress, Drupal, Magento and Joomla sites.</a>&nbsp;It’s our mission to be an extension of your business, helping to keep your website updated and running smoothly.</p>
-		<blockquote><p>Have questions about hosting for your website? <a href="https://www.harriswebworks.com/contact-us/">Contact us</a> to learn how we can help support your online initiatives.</p></blockquote>
+		<blockquote><p>Have questions about hosting for your website? <a href="index.php#contact-us">Contact us</a> to learn how we can help support your online initiatives.</p></blockquote>
 		<h2>Related Information</h2>
 		<p><a href="https://www.harriswebworks.com/cloud-computing-securing-data/">Cloud Computing and Securing Your Data</a><a href="https://www.harriswebworks.com/hosting-magento-e-commerce-site-amazon-cloud/"><br>
 		Why Host Your Magento Store on the Amazon Cloud</a><br>

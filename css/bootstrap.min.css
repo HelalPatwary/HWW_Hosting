@@ -3789,7 +3789,7 @@ input[type=submit].btn-block {
   padding-left:0
  }
 }
-@media (min-width:992px) {
+@media (min-width:768px) {
  .navbar-expand-lg {
   -ms-flex-flow:row nowrap;
   flex-flow:row nowrap;
