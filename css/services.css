@@ -4,6 +4,7 @@
 	float: left;
 	color: white !important;
 	text-decoration:none;
+	padding: 0px;
 }
 .service-list{
 	padding-top: 20px;
@@ -12,6 +13,9 @@
 	color: white;
 	font-weight: bold;
 	font-size: 1.2rem;
+}
+.service-list .ul{
+	padding-left: 0px  !important;
 }
 .service-item:hover{
 	color: black;

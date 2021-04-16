@@ -26,7 +26,7 @@
 <nav class="navbar sticky-top navbar-expand-lg nav-bar navbar-light bg-light ">
 
 	<div class="container">
-		<div class="col-sm-5 name-logo">
+		<div class="col-sm-5 col-3 name-logo">
 			<a class="navbar-brand" href="index.php">
 				<img src="img/name_logo.png">
 				<span class="navbar-brand2"> Hostings</span>
@@ -39,7 +39,7 @@
 		</div>
 
 
-		<div class="col-sm-5 nav-bar-links">
+		<div class="col-sm-5 col-6 nav-bar-links">
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
 			</button>

@@ -32,10 +32,10 @@
                 <p>Harris Web Works is a full service digital agency for B2B and B2C companies, providing customized ecommerce and corporate websites, integrations, hosting, copy-writing, and site administration. <strong>We partner with our clients</strong> to continually leverage the power of their website and grow their business.</p>
                 <p>Our team has a complete range of website development and strategic planning skills. Most businesses cannot replicate this breadth of expertise in-house; that’s where we come in. Whether it’s full or supplemental support, we help businesses leverage digital technologies to increase revenue and efficiency. Ask how our experience creating, managing, hosting and creating content for ecommerce, service, corporate, and pharmaceutical websites can benefit you.</p>
                 <div class="menu clearfix">
-                    <ul>
+                    <ul  style="padding-left: 0px;">
                         <li>
                             <div class="service-list-box">
-                                <ul >
+                                <ul style="padding-left: 0px;">
                                     <li class="service-list"><a class="service-item" href="website-dev.html">Websites</a>
                                         <ul>
                                             <li><a class="service-sub-item" href="ecommerce.html">eCommerce</a></li>
@@ -52,7 +52,7 @@
                                 </ul>
                             </div>
                             <div class="service-list-box">
-                                <ul>
+                                <ul style="padding-left: 0px;">
                                     <li class="service-list"><a class="service-item" href="hosting-management.html">Hosting</a>
                                         <ul>
                                             <li><a class="service-sub-item" href="amazon-cloud.html">Amazon Cloud Hosting & Magento</a></li>

@@ -6,7 +6,6 @@ body {
 
 .dropdown:hover .dropdown-content {
         transition-duration: 1s;
-        transform-style: 
         transition-timing-function: ease;
         display: block;
         
@@ -517,6 +516,9 @@ table {
     .nav-bar-collapse{
         display: inline;
     }
+    .picture_logo{
+        display: none;
+    }
 
 }
 
@@ -529,6 +531,10 @@ table {
 
 
 @media (max-width: 786px) {
+
+    .top-bar{
+        display: none;
+    }
 
     .login {
         font-size: 14px;
@@ -622,6 +628,7 @@ table {
         margin-top: 30px;
         margin-bottom: -10px;
     }
+
 
 }
 
