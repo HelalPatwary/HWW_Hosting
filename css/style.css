@@ -628,6 +628,13 @@ table {
         margin-top: 30px;
         margin-bottom: -10px;
     }
+    .service-section-index{
+        display: block !important;
+    }
+    .banner{
+        display: none;
+    }
+
 
 
 }
@@ -667,3 +674,70 @@ table {
 .landing-page-content .one-third-last { float:left; width:462px; margin:0 0 26px 0; padding:26px; background:#FFF; min-height:385px; }
 
 */
+
+
+.service-section-index{
+    display: none;
+}
+
+/* Service page */
+.menu{
+	padding: 0px;
+}
+
+.service-list-box{
+	list-style: none !important;
+	width: 350px;
+	float: left;
+	color: white !important;
+	text-decoration:none;
+	padding: 0px;
+}
+.service-list{
+	padding-top: 20px;
+}
+.service-list li {
+	padding-left: 20px;
+}
+.service-list-box ul{
+	padding-left: 0px;
+}
+.service-item{
+	color: white;
+	font-weight: bold;
+	font-size: 1.2rem;
+}
+.service-list-box ul{
+	padding-left: 0px  ;
+}
+.service-item:hover{
+	color: black;
+}
+.service-sub-item{
+	color: white;
+}
+.service-sub-item:hover{
+	color: black;
+}
+
+
+ul, ol{
+	list-style: none;
+
+}
+
+p{
+	text-align: justify;
+}
+.content{
+	background-image:url(../img/services-landing-hero.jpg) ;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+
+}
+.content-body{
+	padding: 50px 10px 50px 10px;
+	max-width: 860px;
+	color: white;
+}
