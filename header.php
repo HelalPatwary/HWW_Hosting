@@ -86,7 +86,7 @@
 						</div>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link nav-btn" href="">NEWS</a>
+						<a class="nav-link nav-btn" href="experimental.php">NEWS</a>
 					</li>
 					<li class="nav-item">
 						<a class="nav-link nav-btn" href="index.php#contact-us">CONTACT</a>

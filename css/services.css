@@ -1,3 +1,7 @@
+.menu{
+	padding: 0px;
+}
+
 .service-list-box{
 	list-style: none !important;
 	width: 350px;
@@ -9,13 +13,19 @@
 .service-list{
 	padding-top: 20px;
 }
+.service-list li {
+	padding-left: 20px;
+}
+.service-list-box ul{
+	padding-left: 0px;
+}
 .service-item{
 	color: white;
 	font-weight: bold;
 	font-size: 1.2rem;
 }
-.service-list .ul{
-	padding-left: 0px  !important;
+.service-list-box ul{
+	padding-left: 0px  ;
 }
 .service-item:hover{
 	color: black;
