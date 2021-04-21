@@ -507,6 +507,9 @@ table {
     display: none;
 }
 
+.container{
+    width: 75%;
+}
 
 @media (max-width: 992px){
 
@@ -544,11 +547,8 @@ table {
 }
 @media (max-width: 767px) {
 
-    .dropdown:hover .dropdown-content {
-        transition-duration: 1s;
-        transition-timing-function: ease;
+    .dropdown:hover .dropdown-content{
         display: none;
-        
     }
 
     .mobile-exit{
