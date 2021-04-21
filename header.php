@@ -26,24 +26,26 @@
 <nav class="navbar sticky-top navbar-expand-lg nav-bar navbar-light bg-light ">
 
 	<div class="container">
-		<div class="col-sm-5 col-3 name-logo">
+		<div class="col-sm-5 col-4 name-logo">
 			<a class="navbar-brand" href="index.php">
 				<img src="img/name_logo.png">
 				<span class="navbar-brand2"> Hostings</span>
 			</a>
 
 		</div>
-		<div class="col-sm-2 ">
+		<div class="col-sm-2 picture-logo">
 			<a href="index.php"><img class="picture_logo" src="img/picture_logo.png" alt="picture_logo"> </a>
 
 		</div>
 
+		<div  class="col-sm-1 col-4 toggle-menu">
+		<img id="mobile-open" class="mobile-open" src="img/menu.svg" alt="Open Navigation">
+		</div>
 
-		<div class="col-sm-5 col-6 nav-bar-links">
-			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-				<span class="navbar-toggler-icon"></span>
-			</button>
-			<div class="collapse navbar-collapse" id="navbarSupportedContent" style="float: right;">
+
+		<div id="nav-bar-links" class="col-sm-5 col-6 nav-bar-links">
+			<img id="mobile-exit" class="mobile-exit" src="img/exit.svg" alt="Exit Navigation">
+			<div class="nav-bar-mobile" id="" style="float: right;">
 				<ul class="navbar-nav mr-auto navi ">
 					<li class="nav-item">
 						<a class="nav-link nav-btn " href="index.php">HOME</a>
@@ -99,3 +101,4 @@
 		</div>
 	</div>
 </nav>
+<script src="js/mobile-menu.js"></script>

@@ -1,0 +1,13 @@
+.nav-bar-mobile{
+    display: none;
+    border: auto;
+    position: fixed;
+    z-index: 999;
+    width: 66%;
+    height: 66vh;
+    right: 0;
+    top: 0;
+    text-align: right;
+    padding: 1em;
+    background: darkcyan;
+}

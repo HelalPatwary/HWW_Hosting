@@ -529,8 +529,63 @@ table {
 }
 }
 
+.toggle-menu{
+    display: none;
+}
+.display_none{
+    display: none !important;
+}
 
-@media (max-width: 786px) {
+.mobile-open{
+    cursor: pointer;
+}
+.mobile-exit{
+    display: none;
+}
+@media (max-width: 767px) {
+
+    .dropdown:hover .dropdown-content {
+        transition-duration: 1s;
+        transition-timing-function: ease;
+        display: none;
+        
+    }
+
+    .mobile-exit{
+        display: block;
+        float: right;
+    }
+    .menu-btn{
+        display: block !important;
+        float: right;
+        border: auto;
+        position: fixed;
+        color: white;
+        z-index: 999;
+        width: 50%;
+        height: 40vh;
+        right: 0;
+        top: 0;
+        text-align: right;
+        padding: 1em;
+        background: rgb(203, 207, 207);
+    }
+    .nav-bar-mobile{
+        margin-top:2em;
+    }
+    .toggle-menu{
+        display: block;
+        text-align: right;
+    }
+
+    .navbar .container{
+        display: flex;
+        place-content: space-between;
+    }
+
+    .navbar .container .nav-bar-links, .picture-logo{
+        display: none;
+    }
 
     .top-bar{
         display: none;
