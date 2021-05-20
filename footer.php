@@ -49,7 +49,7 @@
 	<div class="container" id="legal">
 		<div class="row">
 			<div class="col-sm-8 text-white mtext-center">
-				&copy; 2018 <a class="text-gr" href="#">Harris Web Works <span class="navbar-brand2"> Hostings</span></a>. Design
+				&copy; <?php date('Y'); ?> <a class="text-gr" href="#">Harris Web Works <span class="navbar-brand2"> Hostings</span></a>. Design
 				by <a href="index.php" target="_blank">Harris Web Works</a>.
 			</div>
 			<div class="col-sm-4 text-white mtext-center">
